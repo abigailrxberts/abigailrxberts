@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Abigail Roberts! I am an eager new software developer learning JavaScript and Java!
 
 <!--
 **abigailrxberts/abigailrxberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
